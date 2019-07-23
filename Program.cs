@@ -23,6 +23,7 @@ namespace StreamWrite
             {
                 FileStream aFile = new FileStream("Log.txt", FileMode.Open);
                 StreamReader sr = new StreamReader(aFile);
+                //sr.
                 line = sr.ReadLine();
                 // Read data in line by line.
                 while (line != null)
