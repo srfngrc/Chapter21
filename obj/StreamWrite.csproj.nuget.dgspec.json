@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\BegVCSharp\\Chapter21\\StreamWrite\\StreamWrite.csproj": {}
+    "C:\\VSRepositories\\Chapter21\\StreamWrite.csproj": {}
   },
   "projects": {
-    "C:\\BegVCSharp\\Chapter21\\StreamWrite\\StreamWrite.csproj": {
+    "C:\\VSRepositories\\Chapter21\\StreamWrite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\BegVCSharp\\Chapter21\\StreamWrite\\StreamWrite.csproj",
+        "projectUniqueName": "C:\\VSRepositories\\Chapter21\\StreamWrite.csproj",
         "projectName": "StreamWrite",
-        "projectPath": "C:\\BegVCSharp\\Chapter21\\StreamWrite\\StreamWrite.csproj",
+        "projectPath": "C:\\VSRepositories\\Chapter21\\StreamWrite.csproj",
         "packagesPath": "C:\\Users\\Programming15\\.nuget\\packages\\",
-        "outputPath": "C:\\BegVCSharp\\Chapter21\\StreamWrite\\obj\\",
+        "outputPath": "C:\\VSRepositories\\Chapter21\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

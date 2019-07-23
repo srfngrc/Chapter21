@@ -1,0 +1,11 @@
+C:\VSRepositories\Chapter21\obj\Debug\netcoreapp2.1\StreamWrite.csprojAssemblyReference.cache
+C:\VSRepositories\Chapter21\obj\Debug\netcoreapp2.1\StreamWrite.csproj.CoreCompileInputs.cache
+C:\VSRepositories\Chapter21\obj\Debug\netcoreapp2.1\StreamWrite.AssemblyInfoInputs.cache
+C:\VSRepositories\Chapter21\obj\Debug\netcoreapp2.1\StreamWrite.AssemblyInfo.cs
+C:\VSRepositories\Chapter21\bin\Debug\netcoreapp2.1\StreamWrite.deps.json
+C:\VSRepositories\Chapter21\bin\Debug\netcoreapp2.1\StreamWrite.runtimeconfig.json
+C:\VSRepositories\Chapter21\bin\Debug\netcoreapp2.1\StreamWrite.runtimeconfig.dev.json
+C:\VSRepositories\Chapter21\bin\Debug\netcoreapp2.1\StreamWrite.dll
+C:\VSRepositories\Chapter21\bin\Debug\netcoreapp2.1\StreamWrite.pdb
+C:\VSRepositories\Chapter21\obj\Debug\netcoreapp2.1\StreamWrite.dll
+C:\VSRepositories\Chapter21\obj\Debug\netcoreapp2.1\StreamWrite.pdb
